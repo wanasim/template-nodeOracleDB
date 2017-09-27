@@ -1,9 +1,7 @@
 const oracledb = require('oracledb');
 
 var connAttrs =  {
-   user          : "system",
-   password      : "Welcome1#",
-   connectString : "localhost:1521/PDB1.gse00013232.oraclecloud.internal"
+
 }
 
 module.exports = {
